@@ -44,5 +44,4 @@ resource "aws_security_group" "consul_security_group" {
     from_port   = 0
     to_port     = 0
   }
-
 }
