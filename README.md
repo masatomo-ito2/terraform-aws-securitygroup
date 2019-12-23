@@ -6,3 +6,4 @@
 | cluster_rpc_port | 8300 | サーバー間のRPC用 | 
 | lan_serf | 8301 | LAN Serf | 
 | lan_serf | 8302 | WAN Serf | 
+

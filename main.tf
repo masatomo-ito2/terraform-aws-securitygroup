@@ -1,3 +1,4 @@
+
 resource "aws_security_group" "consul_security_group" {
   name        = "consul_security_group"
   description = "Consul Sercuriy Group"
